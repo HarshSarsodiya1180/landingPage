@@ -74,7 +74,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
    - Are the animations smooth and relevant?
 
 ## 📮 Submission
-- Public GitHub Repository: [https://github.com/yourusername/landingPage](https://github.com/yourusername/landingPage) <!-- Update with your repo URL -->
+- Public GitHub Repository: [https://github.com/yourusername/landingPage](https://github.com/HarshSarsodiya1180/landingPage) <!-- Update with your repo URL -->
 
 
 
